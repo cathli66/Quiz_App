@@ -5,4 +5,5 @@
     <string name="click_button">Submit</string>
     <string name="color_hint">What is your favorite color?</string>
     <string name="click_button2">Change Color</string>
+    <string name="color_info">Colors: aqua, black, blue, cyan, darkgray, fuchsia, gray, green, lightgray, lime, magenta, maroon, navy, olive, purple, red, silver, teal, white, yellow.</string>
 </resources>
